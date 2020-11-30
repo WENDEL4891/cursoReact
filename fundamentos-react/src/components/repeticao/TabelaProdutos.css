@@ -1,0 +1,28 @@
+.TabelaProdutos table {
+    border: 3px black solid;
+    margin: auto;
+    border-collapse: collapse;
+    padding: 5px;
+    color: #333;
+    width: 100%;
+}
+
+tr, th, td {
+    border: 1px solid white;
+    padding: 5px;
+
+}
+
+tr > th {
+    background-color: #23a35f;
+    color: white;
+
+}
+
+[color="1"] {
+    background-color: #5DB89D;
+}
+
+[color="2"] {
+    background-color: #8C8535;
+}
